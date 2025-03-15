@@ -24,3 +24,4 @@ This is a simple **Rock Paper Scissors** game built using **HTML, CSS, and JavaS
 - **JavaScript** for game logic.
 
 ## 📂 Project Structure
+/my-project │── /images # Icons │── /scripts # JavaScript logic │── /styles # CSS styling │── index.html # Main game file │── README.md # Documentation
